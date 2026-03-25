@@ -1,0 +1,3 @@
+/Users/sakilrocks/Documents/projects/matrix-lib/build/CMakeFiles/matrix_app.dir
+/Users/sakilrocks/Documents/projects/matrix-lib/build/CMakeFiles/edit_cache.dir
+/Users/sakilrocks/Documents/projects/matrix-lib/build/CMakeFiles/rebuild_cache.dir
